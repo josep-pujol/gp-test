@@ -1,7 +1,7 @@
 
 class PSBTree:
     """
-    Partial Sums Binary Tree
+    Partial Sums Binary Tree blablabla
     """
     def __init__(self, nums):
         self.nums = [0] * len(nums)
